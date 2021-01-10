@@ -21,5 +21,5 @@ To See How To Use The Options Send 'HELP' Into The Script
 
 Made With :heart: By RealSalehn
 
-## Last Released
+## Last Release
 https://github.com/Realsaleh/TwitterTools/releases/tag/1.0.1
